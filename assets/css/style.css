@@ -1,0 +1,136 @@
+body {
+   background: url("../images/gravel.png")
+}
+
+.navbarRow {
+    width: 960px;
+    margin: auto;
+}
+
+.Name {
+    background: #4aaaa5;
+    color: #ffffff;
+    width: 210px;
+    height: 50px;
+    text-align: center;
+    float: left;
+    padding: 10px 0px 0px 0px;
+    margin: 0% 0% 0% 0.5%;
+    padding: 5px 5px 5px 5px;
+    border-radius: 10px;
+}
+
+.navbarLinks {
+    float: right;
+    margin: 0;
+    padding-top: 10px;
+}
+
+.navbar-toggler {
+    float: right;
+}
+
+.container {
+    width: 960px;
+    height: 610px;
+    background: #ffffff;
+    margin-top: 1%;
+}
+
+.aboutmecol {
+    color: #4aaaa5;
+    border-style: solid;
+    border-color: #666666;
+    border-width: 0px 0px 1px 0px;
+    width: 860px;
+    margin-bottom: 20px;
+    margin-left: 1%;
+    margin-right: 1%;
+    padding: 0px;
+}
+
+.row {
+    margin-left: 1%;
+    margin-right: 1%;
+    margin-bottom: 1%;
+}
+
+/* Portfolio Section */
+
+.portCol {
+    margin-left: 0;
+    padding: 0;
+}
+
+.containLink {
+    float: left;
+    position: relative;
+    z-index: 1;
+    height: 150px;
+    width: 150px;
+    margin: 10px 10px;
+}
+
+.pimg {
+    position: absolute;
+    z-index: 2;
+    margin: 0 0;
+}
+
+a {
+    text-decoration: none;
+    color: #ffffff;
+
+}
+
+a:hover {
+    color: #666666;
+}
+
+.portButton {
+    position: absolute;
+    z-index: 3;
+    height: 50px;
+    width: 150px;
+    background: #4aaaa5;
+    border: none;
+    margin-top: 95px;
+    border-radius: 10px;
+}
+
+form {
+    margin-left: 1.6%;
+    margin-right: 1.6%;
+}
+
+.portButton2 {
+    position: absolute;
+    z-index: 3;
+    height: 50px;
+    width: 150px;
+    background: #4aaaa5;
+    border: none;
+    margin-top: 20px;
+    border-radius: 10px;
+}
+
+.card {
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    height: 40px;
+    width: 100%;
+    text-align: center;
+    background: #666666;
+    color: #ffffff;
+    font-size: 12px;
+    padding-bottom: 0;
+    padding-top: 10px;
+    border-style: solid;
+    border-color: #4aaaa5;
+    border-bottom: 0px;
+    border-left: 0px;
+    border-right: 0px;
+    border-width: 5px;
+}
+
