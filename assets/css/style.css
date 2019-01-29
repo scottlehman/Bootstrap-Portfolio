@@ -32,9 +32,10 @@ body {
 
 .container {
     width: 960px;
-    height: 610px;
+    height: auto;
     background: #ffffff;
     margin-top: 1%;
+    padding-bottom: 40px;
     border-radius: 10px;
 }
 
@@ -110,8 +111,8 @@ form {
     height: 50px;
     width: 150px;
     background: #4aaaa5;
+    color: #ffffff;
     border: none;
-    margin-top: 20px;
     border-radius: 10px;
 }
 
