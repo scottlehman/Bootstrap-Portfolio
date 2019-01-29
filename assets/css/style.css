@@ -77,6 +77,8 @@ body {
     position: absolute;
     z-index: 2;
     margin: 0 0;
+    height: 150px;
+    width: 150px;
 }
 
 a {
